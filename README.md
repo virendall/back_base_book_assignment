@@ -15,5 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-[![Watch the video]](https://github.com/virendall/back_base_book_assignment/blob/main/video.mp4)
-<video controls playsinline width="640" src="https://github.com/virendall/back_base_book_assignment/blob/main/video.mp4"></video>
+[![Watch the video](https://raw.githubusercontent.com/virendall/back_base_book_assignment/main/assets/thumbnail.jpg)](https://github.com/virendall/back_base_book_assignment/blob/main/video.mp4)
